@@ -7,7 +7,7 @@ BluetoothSerial SerialBT;
 //BluetoothSerial SerialBT;
 char serNum[19]; // Holds Device Serial Number - 18 chars + null dor string
 int snI = 0;
-// another comment
+// another comment another
 // Added comment for GitHub check
 struct rppDelayStruct
 {
