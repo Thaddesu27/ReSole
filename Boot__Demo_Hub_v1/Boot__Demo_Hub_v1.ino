@@ -11,6 +11,7 @@ int snI = 0;
 // Added comment for GitHub check
 struct rppDelayStruct
 {
+  // my data structure
   char sn[20];
   long ms;
   bool leftLeg;
